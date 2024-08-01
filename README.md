@@ -21,6 +21,24 @@ I hold a degree in Computer Science with a focus on data analytics.
 3. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
 4. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
 
+ **Project Name**
+ [Project Title](link-to-project)  - **Description**: Brief description of what the project does and its key features.  - **Technologies Used**: List the libraries/packages used in the project. 
+ ### PowerBI- **Project Name**: [Project Title](link-to-project) 
+ - **Description**: Brief description of what the project does and its key features.  - **Technologies Used**: List the features and data sources used in the project.
+ ### Tableau- **Project Name**: [Project Title](link-to-project) 
+ - **Description**: Brief description of what the project does and its key features.  - **Technologies Used**: List the features and data sources used in the project.
+ ### Access- **Project Name**: [Project Title](link-to-project) 
+ - **Description**: Brief description of what the project does and its key features.  - **Technologies Used**: List the features and tables used in the project. 
+ ### MySQL- **Project Name**: [Project Title](link-to-project) 
+ - **Description**: Brief description of what the project does and its key features.  - **Technologies Used**: List the features and databases used in the project.
+ ### Python and Pandas- **Project Name**: [Project Title](link-to-project) 
+ - **Description**: Brief description of what the project does and its key features. 
+ - **Technologies Used**: List the libraries/packages used in the project.
+ ### DP900- **Project Name**: [Project Title](link-to-project) 
+ - **Description**: Brief description of what the project does and its key features.  - **Technologies Used**: List the tools and concepts used in the project.
+ ### Excel Modelling- **Project Name**: [Project Title](link-to-project)  
+ - **Description**: Brief description of what the project does and its key features.  - **Technologies Used**: List the functions and techniques used in the project.
+
 * 🌍  I'm based in London
 * ✉️  You can contact me at [yonismohamed44@gmail.com](mailto:yonismohamed44@gmail.com)
 * 🧠  I'm learning R, Pandas
